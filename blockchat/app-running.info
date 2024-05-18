@@ -1,0 +1,11 @@
+npx hardhat node
+
+
+npx hardhat run --network localhost scripts/deploy.js 
+
+
+Put the server running adress in Constants.js
+
+
+Delete json file from context and replce the one from artifacts.
+
